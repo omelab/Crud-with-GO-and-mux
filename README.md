@@ -1,4 +1,4 @@
-# crud with GO AND gorila/mux
+# Crud with GO & gorila/mux
 
 [![GoDoc](https://godoc.org/github.com/gorilla/mux?status.svg)](https://godoc.org/github.com/gorilla/mux)
 [![CircleCI](https://circleci.com/gh/gorilla/mux.svg?style=svg)](https://circleci.com/gh/gorilla/mux)
@@ -8,7 +8,7 @@
 
 ---
 
-⚠️ **[This is just sample practice project]
+⚠️ **[This is Just a Sample Practice Project]
 
 --- 
 
